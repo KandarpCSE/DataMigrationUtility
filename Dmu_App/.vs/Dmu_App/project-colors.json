@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f69f24c4-4fc8-464b-8504-9d6c6e1acf3e": {
+      "ProjectGuid": "f69f24c4-4fc8-464b-8504-9d6c6e1acf3e",
+      "DisplayName": "Dmu_Console",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
