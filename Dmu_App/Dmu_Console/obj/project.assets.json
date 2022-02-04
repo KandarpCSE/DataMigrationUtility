@@ -5831,11 +5831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kandarp Patel\\Desktop\\Dmu_App\\Dmu_Console\\Dmu_Console.csproj",
+      "projectUniqueName": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\DataMigrationUtility\\Dmu_App\\Dmu_Console\\Dmu_Console.csproj",
       "projectName": "Dmu_Console",
-      "projectPath": "C:\\Users\\Kandarp Patel\\Desktop\\Dmu_App\\Dmu_Console\\Dmu_Console.csproj",
+      "projectPath": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\DataMigrationUtility\\Dmu_App\\Dmu_Console\\Dmu_Console.csproj",
       "packagesPath": "C:\\Users\\Kandarp Patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kandarp Patel\\Desktop\\Dmu_App\\Dmu_Console\\obj\\",
+      "outputPath": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\DataMigrationUtility\\Dmu_App\\Dmu_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kandarp Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
